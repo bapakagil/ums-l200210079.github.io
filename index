@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ragiel Abiul Pratama</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        
+        a {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .button {
+            display: inline-block;
+            padding: 10px 15px;
+            font-size: 14px;
+            color: white;
+            background-color: #007BFF;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Ragiel Abiul Pratama</h1>
+    <h2>L200210079</h2>
+    <p>Tugas IPSD Sebelum UTS</p>
+    <a class="button" href="ums-l200210079.github.io">Lihat Kode Python</a>
+</body>
+
+</html>
